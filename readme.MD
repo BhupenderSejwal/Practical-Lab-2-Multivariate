@@ -5,6 +5,8 @@ This project is a practical lab for multivariate regression and non-parametric m
 ## 📁 Contents
 
 - `lab2_Multi.ipynb`: Main Jupyter notebook with code, visualizations, and results
+- `lab2_Multi.html`
+- `index.html`: To redirect to lab2_Multi.html
 - `requirements.txt`: Frozen list of required Python packages
 - `README.md`: You're reading it!
 
